@@ -18,9 +18,9 @@
 ## 🛠️ Skills & Tools
 
 ### Languages & Frameworks:
-- **Frontend**: Flutter | Dart | GetX | Figma  
+- **Frontend**: Flutter | ReactJs | GetX | Provider | Figma  
 - **Backend**: Django Rest Framework | Python | REST API  
-- **Programming**: C++ | C  
+- **Programming**: C++ | C | Python | Dart | Java 
 
 ### Tools & Platforms:
 - **Version Control**: Git, GitHub  

@@ -34,7 +34,7 @@
 ### 🔥 Featured Projects
 - **E-commerce App**  
   _A complete e-commerce app with Flutter and Django backend._  
-  [GitHub Repository](#) | [Live Demo](#)
+  [GitHub Repository](https://github.com/robiulsunnyemon/Dhaka-Shop) | [Live Demo](#)
 
 - **Bookstore App**  
   _Mobile app for browsing and purchasing books._  

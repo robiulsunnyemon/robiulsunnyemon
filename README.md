@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Robiul Sunny Emon
 
 🚀 **Expert in Flutter, Django Rest Framework (DRF), and Figma**  
-🎓 Computer Science Engineering Student at BSFMSTU  
+🎓 Computer Science Engineering Student at JSTU  
 🌟 Passionate about building scalable apps and designing stunning UI/UX  
 
 ---
 
 ## 🌟 About Me
 
-- 🔭 I specialize in **mobile app development**, **REST API design**, and **UI/UX design**.  
+- 🔭 I specialize in **Mobile app development**, **REST API design**, and **UI/UX design**.  
 - 💡 Skilled in **Flutter**, **Django Rest Framework (DRF)**, and **Figma**.  
 - 🌱 Currently exploring **AI integrations** into Flutter apps.  
 - 👨‍💻 I love creating solutions that solve real-world problems.
@@ -18,8 +18,9 @@
 ## 🛠️ Skills & Tools
 
 ### Languages & Frameworks:
-- **Frontend**: Flutter | ReactJs | GetX | Provider | Figma  
-- **Backend**: Django Rest Framework | Python | REST API  
+- **Frontend**: Flutter | Python | FastAPI | Riverpod | Bloc | Django | GetX | Provider | Figma
+- **Backend**: Django Rest Framework | Python | REST API | FastAPI
+- **Deployment**: Docker | Github Action | CI/CD Pipeline
 - **Programming**: C++ | C | Python | Dart | Java 
 
 ### Tools & Platforms:
@@ -69,7 +70,7 @@
 
 - LinkedIn: [Robiul Sunny Emon](#)  
 - Portfolio: [Visit My Website](#)  
-- Email: robiulsunnyemon@gmail.com  
+- Email: robiulsunyemon@gmail.com  
 
 ---
 

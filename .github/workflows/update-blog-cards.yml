@@ -28,6 +28,7 @@ jobs:
           import json
           import re
 
+          FIXED_THUMBNAIL = "https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg"
           url = "https://gql.hashnode.com"
           query = """
           query {
@@ -40,7 +41,6 @@ jobs:
                     url
                     publishedAt
                     readTimeInMinutes
-                    coverImage { url }
                   }
                 }
               }
@@ -68,26 +68,23 @@ jobs:
                       "title": "AWS Academy Cloud Foundations (Module 02)",
                       "brief": "Cloud Economics and Billing (ক্লাউড অর্থনীতি এবং বিলিং)",
                       "url": "https://robiulsuny.hashnode.dev",
-                      "readTimeInMinutes": 11,
-                      "coverImage": {"url": "https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"}
+                      "readTimeInMinutes": 11
                   },
                   {
                       "title": "AWS Academy Cloud Foundations (Module 01)",
                       "brief": "১. ভূমিকা (Introduction) আজকের তথ্যপ্রযুক্তির যুগে Cloud Computing শব্দটি আমরা প্রতিনিয়ত শুনে থাকি...",
                       "url": "https://robiulsuny.hashnode.dev",
-                      "readTimeInMinutes": 6,
-                      "coverImage": {"url": "https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"}
+                      "readTimeInMinutes": 6
                   }
               ]
 
           cards_html = '<table width="100%" border="0" cellspacing="10" cellpadding="0">\n  <tr>\n'
           for p in posts[:2]:
-              img = p.get("coverImage", {}).get("url") if p.get("coverImage") else "https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"
               brief = p.get("brief", "")[:110] + "..." if len(p.get("brief", "")) > 110 else p.get("brief", "")
               read_time = p.get("readTimeInMinutes", 5)
               cards_html += f'''    <td width="50%" valign="top">
             <a href="{p['url']}" target="_blank">
-              <img src="{img}" alt="{p['title']}" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+              <img src="{FIXED_THUMBNAIL}" alt="{p['title']}" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
             </a>
             <br/><br/>
             <a href="{p['url']}" target="_blank" style="text-decoration: none;">
@@ -109,7 +106,7 @@ jobs:
 
               with open("README.md", "w", encoding="utf-8") as f:
                   f.write(new_content)
-              print("README.md cards successfully updated!")
+              print("README.md cards successfully updated with fixed thumbnail!")
           except Exception as err:
               print(f"File update note: {err}")
           EOF
@@ -121,6 +118,6 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
           if ! git diff --quiet || ! git diff --staged --quiet; then
-            git commit -m "Auto-update Hashnode blog cards"
+            git commit -m "Auto-update Hashnode blog cards with fixed thumbnail"
             git push
           fi

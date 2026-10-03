@@ -35,7 +35,7 @@ I actively document my cloud computing journey and architectural insights on [ro
   <tr>
     <td width="50%" valign="top">
   <a href="https://robiulsuny.hashnode.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS Academy Cloud Foundations (Module 02)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+    <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 02)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
   </a>
   <br/><br/>
   <a href="https://robiulsuny.hashnode.dev" target="_blank" style="text-decoration: none;">
@@ -46,7 +46,7 @@ I actively document my cloud computing journey and architectural insights on [ro
 </td>
     <td width="50%" valign="top">
   <a href="https://robiulsuny.hashnode.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS Academy Cloud Foundations (Module 01)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+    <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 01)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
   </a>
   <br/><br/>
   <a href="https://robiulsuny.hashnode.dev" target="_blank" style="text-decoration: none;">

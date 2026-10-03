@@ -30,11 +30,11 @@ Specialized in Enterprise Microservices (Spring Boot 3, Go, FastAPI), Event-Driv
 
 I actively document my cloud computing journey and architectural insights on [robiulsuny.hashnode.dev](https://robiulsuny.hashnode.dev):
 
-- **[AWS Academy Cloud Foundations (Module 02)](https://robiulsuny.hashnode.dev)** — Deep dive into AWS compute, storage services, VPC networking, and cloud security principles.
-- **[AWS Academy Cloud Foundations (Module 01)](https://robiulsuny.hashnode.dev)** — Cloud computing fundamentals, economics, global infrastructure, and Shared Responsibility Model.
+<!-- HASHNODE-CARDS:START -->
+<!-- HASHNODE-CARDS:END -->
 
 <p align="left">
-  <a href="https://robiulsuny.hashnode.dev"><img src="https://img.shields.io/badge/Read%20More%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read on Hashnode" /></a>
+  <a href="https://robiulsuny.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Read%20More%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read on Hashnode" /></a>
 </p>
 
 ---

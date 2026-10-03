@@ -31,6 +31,32 @@ Specialized in Enterprise Microservices (Spring Boot 3, Go, FastAPI), Event-Driv
 I actively document my cloud computing journey and architectural insights on [robiulsuny.hashnode.dev](https://robiulsuny.hashnode.dev):
 
 <!-- HASHNODE-CARDS:START -->
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+  <a href="https://robiulsuny.hashnode.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS Academy Cloud Foundations (Module 02)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+  </a>
+  <br/><br/>
+  <a href="https://robiulsuny.hashnode.dev" target="_blank" style="text-decoration: none;">
+    <h3>AWS Academy Cloud Foundations (Module 02)</h3>
+  </a>
+  <p>Cloud Economics and Billing (ক্লাউড অর্থনীতি এবং বিলিং)</p>
+  <p><sub>⏱️ 11 min read</sub></p>
+</td>
+    <td width="50%" valign="top">
+  <a href="https://robiulsuny.hashnode.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS Academy Cloud Foundations (Module 01)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+  </a>
+  <br/><br/>
+  <a href="https://robiulsuny.hashnode.dev" target="_blank" style="text-decoration: none;">
+    <h3>AWS Academy Cloud Foundations (Module 01)</h3>
+  </a>
+  <p>১. ভূমিকা (Introduction) আজকের তথ্যপ্রযুক্তির যুগে Cloud Computing শব্দটি আমরা প্রতিনিয়ত শুনে থাকি...</p>
+  <p><sub>⏱️ 6 min read</sub></p>
+</td>
+  </tr>
+</table>
 <!-- HASHNODE-CARDS:END -->
 
 <p align="left">

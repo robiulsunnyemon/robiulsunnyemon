@@ -272,7 +272,7 @@ Continuous learner committed to expanding language proficiencies and CS fundamen
 - **Email**: [robiulsunyemon@gmail.com](mailto:robiulsunyemon@gmail.com)
 - **Blog**: [robiulsuny.hashnode.dev](https://robiulsuny.hashnode.dev)
 - **GitHub**: [@robiulsunnyemon](https://github.com/robiulsunnyemon)
-- **LinkedIn**: [Robiul Sunny Emon](https://www.linkedin.com/in/robiulsunnyemon)
+- **LinkedIn**: [Robiul Suny](https://www.linkedin.com/in/robiulsunyemon)
 - **NeetCode**: [LuckyVulture227](https://neetcode.io/user/LuckyVulture227)
 
 ---

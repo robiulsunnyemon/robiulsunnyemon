@@ -132,6 +132,30 @@ Demonstrated foundation in Data Structures, Algorithms, and System Design throug
 - 🤖 **AI Engineering**: Exploring LLM orchestration and Agent Tool Calling within mobile applications.
 
 ---
+## Learning Progress & Skill Verification
+
+Continuous learner committed to expanding language proficiencies and CS fundamentals. Verified coursework and problem-solving metrics on [W3Schools Profile](https://www.w3profile.com/robiulsunyemon/):
+
+<p align="left">
+  <a href="https://www.w3profile.com/robiulsunyemon/" target="_blank">
+    <img src="https://img.shields.io/badge/W3Schools%20Profile-robiulsunyemon-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools Verified Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Total%20XP-7%2C290-007ACC?style=for-the-badge" alt="Total XP" />
+  <img src="https://img.shields.io/badge/Exercises%20Solved-411-orange?style=for-the-badge" alt="Exercises" />
+</p>
+
+<!-- W3Schools Screenshot Card -->
+<div align="left">
+  <a href="https://www.w3profile.com/robiulsunyemon/" target="_blank">
+    <img src="assets/w3schools_progress.png" alt="W3Schools Progress - Robiul Sunny Emon" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+  </a>
+</div>
+
+<p align="left">
+  <sub>Key Milestones: <b>Go (100% Completed)</b> • <b>C# (100% Completed)</b> • <b>Pandas (Data Analysis)</b></sub>
+</p>
+
+---
 
 ## Development Environment & Workflow
 

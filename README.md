@@ -26,6 +26,39 @@ Specialized in Enterprise Microservices (Spring Boot 3, Go, FastAPI), Event-Driv
 
 ---
 
+## Work Experience
+
+#### **Software Engineer** — [maktech](https://www.linkedin.com)
+*Dhaka, Bangladesh • Hybrid*  
+`Jun 2026 – Present`
+
+- Promoted to Software Engineer following impactful delivery as Associate Engineer.
+- Architecting scalable enterprise backend services, microservices, and robust APIs.
+- Specializing in high-performance backend systems with Java and Spring ecosystem.
+- **Core Tech**: GO, AWS, Core Java, Java Spring Boot, Spring Cloud, Microservices, PostgreSQL.
+
+---
+
+#### **Associate Software Engineer** — [maktech](https://www.linkedin.com)
+*Dhaka, Bangladesh • Hybrid*  
+`Jul 2025 – Jun 2026 (1 year)`
+
+- Encompassed full-stack responsibilities delivering production mobile and backend solutions.
+- Focused on building resilient, decoupled modules, state management, and API integrations.
+- **Core Tech**: Python, FastAPI, Flutter, GetX, Clean Architecture, RESTful Services.
+
+---
+
+#### **Software Developer (Intern)** — OmegaSoft BD
+*Dhaka, Bangladesh • Remote*  
+`Feb 2025 – Jul 2025 (6 months)`
+
+- Engineered a scalable SaaS-based Point-of-Sale (POS) system for SMEs with enhanced modular architecture.
+- Collaborated across the full Software Development Life Cycle (SDLC) for mobile and web components.
+- **Core Tech**: Mobile Application Development, Flutter, SDLC, Modular Design.
+
+---
+
 ## Technical Writing & Cloud Blog
 
 I actively document my cloud computing journey and architectural insights on [robiulsuny.hashnode.dev](https://robiulsuny.hashnode.dev):

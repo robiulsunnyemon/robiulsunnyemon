@@ -49,7 +49,7 @@ Specialized in Enterprise Microservices (Spring Boot 3, Go, FastAPI), Event-Driv
 
 ---
 
-#### **Software Developer (Intern)** — OmegaSoft BD
+#### **Software Developer (Intern)** — [OmegaSoft BD](https://omegasoftbd.com/)
 *Dhaka, Bangladesh • Remote*  
 `Feb 2025 – Jul 2025 (6 months)`
 

@@ -28,7 +28,7 @@ Specialized in Enterprise Microservices (Spring Boot 3, Go, FastAPI), Event-Driv
 
 ## Work Experience
 
-#### **Software Engineer** — [maktech](https://www.linkedin.com)
+#### **Software Engineer** — [maktech](https://www.linkedin.com/company/maktechgroup/posts/?feedView=all)
 *Dhaka, Bangladesh • Hybrid*  
 `Jun 2026 – Present`
 
@@ -39,7 +39,7 @@ Specialized in Enterprise Microservices (Spring Boot 3, Go, FastAPI), Event-Driv
 
 ---
 
-#### **Associate Software Engineer** — [maktech](https://www.linkedin.com)
+#### **Associate Software Engineer** — [maktech](https://www.linkedin.com/company/maktechgroup/posts/?feedView=all)
 *Dhaka, Bangladesh • Hybrid*  
 `Jul 2025 – Jun 2026 (1 year)`
 

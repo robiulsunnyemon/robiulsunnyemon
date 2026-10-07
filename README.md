@@ -67,27 +67,38 @@ I actively document my cloud computing journey and architectural insights on [ro
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-  <a href="https://robiulsuny.hashnode.dev" target="_blank">
-    <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 02)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
-  </a>
-  <br/><br/>
-  <a href="https://robiulsuny.hashnode.dev" target="_blank" style="text-decoration: none;">
-    <h3>AWS Academy Cloud Foundations (Module 02)</h3>
-  </a>
-  <p>Cloud Economics and Billing (ক্লাউড অর্থনীতি এবং বিলিং)</p>
-  <p><sub>⏱️ 11 min read</sub></p>
-</td>
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-03" target="_blank">
+        <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 03)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+      </a>
+      <br/><br/>
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-03" target="_blank" style="text-decoration: none;">
+        <h3>AWS Academy Cloud Foundations (Module 03)</h3>
+      </a>
+      <p>ক্লাউড কম্পিউটিংয়ের দুনিয়ায় Amazon Web Services (AWS) বর্তমানে সবচেয়ে জনপ্রিয় নাম। কিন্তু আপনি কি জানেন, পৃথিব...</p>
+    </td>
     <td width="50%" valign="top">
-  <a href="https://robiulsuny.hashnode.dev" target="_blank">
-    <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 01)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
-  </a>
-  <br/><br/>
-  <a href="https://robiulsuny.hashnode.dev" target="_blank" style="text-decoration: none;">
-    <h3>AWS Academy Cloud Foundations (Module 01)</h3>
-  </a>
-  <p>১. ভূমিকা (Introduction) আজকের তথ্যপ্রযুক্তির যুগে Cloud Computing শব্দটি আমরা প্রতিনিয়ত শুনে থাকি...</p>
-  <p><sub>⏱️ 6 min read</sub></p>
-</td>
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-02" target="_blank">
+        <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 02)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+      </a>
+      <br/><br/>
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-02" target="_blank" style="text-decoration: none;">
+        <h3>AWS Academy Cloud Foundations (Module 02)</h3>
+      </a>
+      <p>১. ভূমিকা (Introduction) AWS (Amazon Web Services) ব্যবহার করার আগে এর খরচ কীভাবে হিসাব করা হয় এবং বিলিং কীভা...</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-01" target="_blank">
+        <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 01)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+      </a>
+      <br/><br/>
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-01" target="_blank" style="text-decoration: none;">
+        <h3>AWS Academy Cloud Foundations (Module 01)</h3>
+      </a>
+      <p>১. ভূমিকা (Introduction) আজকের তথ্যপ্রযুক্তির যুগে "Cloud Computing" শব্দটি আমরা প্রতিনিয়ত শুনে থাকি। কিন্তু ক...</p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 <!-- HASHNODE-CARDS:END -->

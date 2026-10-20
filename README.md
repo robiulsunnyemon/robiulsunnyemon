@@ -67,16 +67,14 @@ I actively document my cloud computing journey and architectural insights on [ro
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://robiulsuny.hashnode.dev/hello-world-i-m-robiul-suny" target="_blank">
-        <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="👋 Hello World! 
-I'm Robiul Suny" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-04" target="_blank">
+        <img src="https://cdn.hashnode.com/uploads/covers/6a8c7f26549260acf3291b62/40f307aa-7b41-4d63-9afb-a0de90a33721.jpg" alt="AWS Academy Cloud Foundations (Module 04)" width="100%" style="border-radius: 8px; border: 1px solid #30363d; max-height: 220px; object-fit: cover;" />
       </a>
       <br/><br/>
-      <a href="https://robiulsuny.hashnode.dev/hello-world-i-m-robiul-suny" target="_blank" style="text-decoration: none;">
-        <h3>👋 Hello World! 
-I'm Robiul Suny</h3>
+      <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-04" target="_blank" style="text-decoration: none;">
+        <h3>AWS Academy Cloud Foundations (Module 04)</h3>
       </a>
-      <p>Welcome to my digital space! I am a passionate Software Developer with a strong focus on Cloud Computing, DevO...</p>
+      <p>ক্লাউডে ডেটা রাখলেই কি সব নিরাপদ? AWS Cloud Security সম্পূর্ণ গাইড (Module 4)</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-03" target="_blank">
@@ -86,7 +84,7 @@ I'm Robiul Suny</h3>
       <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-03" target="_blank" style="text-decoration: none;">
         <h3>AWS Academy Cloud Foundations (Module 03)</h3>
       </a>
-      <p>ক্লাউড কম্পিউটিংয়ের দুনিয়ায় Amazon Web Services (AWS) বর্তমানে সবচেয়ে জনপ্রিয় নাম। কিন্তু আপনি কি জানেন, পৃথিব...</p>
+      <p>AWS গ্লোবাল ইনফ্রাস্ট্রাকচার এবং ক্লাউড সার্ভিস</p>
     </td>
   </tr>
   <tr>
@@ -98,7 +96,7 @@ I'm Robiul Suny</h3>
       <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-02" target="_blank" style="text-decoration: none;">
         <h3>AWS Academy Cloud Foundations (Module 02)</h3>
       </a>
-      <p>১. ভূমিকা (Introduction) AWS (Amazon Web Services) ব্যবহার করার আগে এর খরচ কীভাবে হিসাব করা হয় এবং বিলিং কীভা...</p>
+      <p>Cloud Economics and Billing (ক্লাউড অর্থনীতি এবং বিলিং)</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-01" target="_blank">
@@ -108,7 +106,7 @@ I'm Robiul Suny</h3>
       <a href="https://robiulsuny.hashnode.dev/aws-academy-cloud-foundations-module-01" target="_blank" style="text-decoration: none;">
         <h3>AWS Academy Cloud Foundations (Module 01)</h3>
       </a>
-      <p>১. ভূমিকা (Introduction) আজকের তথ্যপ্রযুক্তির যুগে "Cloud Computing" শব্দটি আমরা প্রতিনিয়ত শুনে থাকি। কিন্তু ক...</p>
+      <p>আজকের তথ্যপ্রযুক্তির যুগে "Cloud Computing" শব্দটি আমরা প্রতিনিয়ত শুনে থাকি। কিন্তু ক্লাউড কম্পিউটিং আসলে কী? ...</p>
     </td>
   </tr>
 </table>
